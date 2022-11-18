@@ -1,8 +1,6 @@
 # aws-lb-remover
 Remove AWS Load Balancer By Subnet ID
 
-입력한 CIDR 중 aws subnet 에서 사용가능 여부를 반환합니다.
-
 ## build
 
 ### node
